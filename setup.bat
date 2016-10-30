@@ -1,0 +1,1 @@
+SET METEOR_PACKAGE_DIRS=D:\Users\pb-home\projects\meteor-packages
