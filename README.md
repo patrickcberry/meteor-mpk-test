@@ -1,7 +1,7 @@
 # meteor-mpk-test
 Test project using local packages.
 
-Include and exercises the [mpk-demo](https://github.com/patrickcberry/mpk-demo) package.
+Includes and exercises the [mpk-demo](https://github.com/patrickcberry/mpk-demo) package.
 
 ## Usage
 
